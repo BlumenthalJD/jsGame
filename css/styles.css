@@ -1,0 +1,14 @@
+.title
+{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 100%;
+    color: rgb(145, 106, 177);
+}
+
+.gameWindow
+{
+    background-color: LightGray;
+}
